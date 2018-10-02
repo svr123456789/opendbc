@@ -66,3 +66,6 @@ BO_ 920 NEW_MSG_5: 8 XXX
 
 BO_ 1552 NEW_MSG_6: 8 XXX
  SG_ NEW_SIGNAL_1 : 23|24@0+ (1,0) [0|16777215] "" XXX
+
+BO_ 1553 lumiere: 8 XXX
+ SG_ lumiere : 47|24@0+ (1,0) [0|16777215] "" XXX
