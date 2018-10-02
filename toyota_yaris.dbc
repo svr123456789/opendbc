@@ -38,5 +38,9 @@ BU_: XXX
 
 BO_ 1568 untited: 8 XXX
 
-BO_ 608 accelerateur: 8 XXX
- SG_ accelerateur : 47|24@0+ (1,0) [0|16777215] "" XXX
+BO_ 608 rotation_volant: 8 XXX
+ SG_ rotation_volant : 47|24@0- (1,0) [0|16777215] "" XXX
+
+BO_ 705 accelerateur: 8 XXX
+ SG_ NEW_SIGNAL_1 : 15|32@0+ (1,0) [0|4294967295] "" XXX
+ SG_ accelerateur : 55|16@0+ (1,0) [0|255] "" XXX
