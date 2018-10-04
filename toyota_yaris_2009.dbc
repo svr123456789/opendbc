@@ -48,8 +48,8 @@ BO_ 705 accelerateur: 8 XXX
  SG_ NEW_SIGNAL_1 : 15|32@0+ (1,0) [0|4294967295] "" XXX
 
 BO_ 708 RPM: 8 XXX
- SG_ NEW_SIGNAL_1 : 55|16@0+ (1,0) [0|65535] "" XXX
  SG_ RPM : 7|16@0+ (1,0) [0|65535] "" XXX
+ SG_ vibration_du_bloc : 55|16@0+ (1,0) [0|65535] "" XXX
 
 BO_ 178 vitesse: 8 XXX
  SG_ vitesse : 7|48@0+ (1,0) [0|281474976710655] "" XXX
