@@ -37,8 +37,11 @@ BU_: XXX
 
 
 BO_ 1568 untited: 8 XXX
- SG_ NEW_SIGNAL_1 : 39|16@0+ (1,0) [0|65535] "" XXX
+ SG_ NEW_SIGNAL_1 : 39|8@0+ (1,0) [0|65535] "" XXX
  SG_ NEW_SIGNAL_2 : 0|8@1+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_5 : 46|1@0+ (1,0) [0|1023] "" XXX
+ SG_ passager_avant_detache : 44|1@0+ (1,0) [0|255] "" XXX
+ SG_ porte_passager_avant_ouverte : 60|1@0+ (1,0) [0|3] "" XXX
 
 BO_ 608 rotation_volant: 8 XXX
  SG_ rotation_volant : 47|24@0- (1,0) [0|16777215] "" XXX
@@ -145,3 +148,6 @@ BO_ 417018865 NEW_MSG_25: 8 XXX
 
 BO_ 547 NEW_MSG_3: 8 XXX
  SG_ NEW_SIGNAL_1 : 61|6@0+ (1,0) [0|255] "" XXX
+
+BO_ 548 brake_light: 8 XXX
+ SG_ brake_light : 5|1@0+ (1,0) [0|3] "" XXX
