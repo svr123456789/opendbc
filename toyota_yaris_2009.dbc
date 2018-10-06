@@ -150,9 +150,7 @@ BO_ 417018865 NEW_MSG_25: 8 XXX
  SG_ NEW_SIGNAL_1 : 7|24@0+ (1,0) [0|16777215] "" XXX
 
 BO_ 547 NEW_MSG_3: 8 XXX
- SG_ NEW_SIGNAL_1 : 62|2@0+ (1,0) [0|3] "" XXX
- SG_ NEW_SIGNAL_2 : 58|2@1+ (1,0) [0|3] "" XXX
- SG_ NEW_SIGNAL_3 : 56|1@1+ (1,0) [0|3] "" XXX
+ SG_ NEW_SIGNAL_1 : 61|6@0+ (1,0) [0|255] "" XXX
 
 BO_ 548 brake_light: 8 XXX
  SG_ brake_light : 5|1@0+ (1,0) [0|3] "" XXX
